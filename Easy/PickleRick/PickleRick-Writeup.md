@@ -9,7 +9,7 @@
 ## Steps
 1. **Reconnaissance**
 - Dùng `gobuster` scan target (`10.10.x.x`) để liệt kê các thư mục có tồn tại: `gobuster dir -u http://vulnnet.thm -w /usr/share/wordlists/dirb/common.txt`
-- 
+  
 ![Gobuster Scan](images/gobuster-scan.PNG)
 
 - Phát hiện được `robots.txt` và `index.html`
