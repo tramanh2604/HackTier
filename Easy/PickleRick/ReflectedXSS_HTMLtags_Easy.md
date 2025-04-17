@@ -1,4 +1,4 @@
-# Reflected XSS - Easy Labs (PortSwigger)
+# Reflected XSS - HTML Tags Context - Easy Labs (PortSwigger)
 
 ## Lab 1: Reflected XSS into HTML context with nothing encoded
 ### Steps
