@@ -19,7 +19,7 @@
 
 ### Findings
 - Payload: `<img src=x onerror=alert(1)>`
-- Result: Pop-up alert"1" sau khi reload => Xác nhận lỗi Stored XSS .
+- Result: Pop-up alert"1" sau khi reload => Xác nhận lỗi Stored XSS, payload được lưu trên server và ảnh hưởng đến mọi user truy cập trang.
 ![Lab 2 - Result](images/stored_xss_html_tags_easy.PNG)
 
 ## Impact (Common for all Easy labs)
