@@ -13,7 +13,7 @@ Welcome to **HackTier** - my personal repository for Challenges/CTFs. This repo 
 
 ## 🔧 Tools Used
 - Python (scripting)
-- ... and more!
+- Burp Suite and more!
 
 ## 📬 Contact
 Feel free to connect with on me [GitHub](https://github.com/tramanh2604) or [FaceBook](https://www.facebook.com/buihuynhtramanh/) for feedback and collaboration!
